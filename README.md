@@ -1,7 +1,10 @@
 # Compost Maturity Detection
 
 ## Overview
-This project focuses on image-based compost maturity classification using YOLOv5 and YOLOv8.
+This repository contains a prototype implementation of an image-based compost maturity classification system using YOLOv5 and YOLOv8.
+
+## Current Status
+Prototype / Ongoing Research
 
 ## Technologies
 - Python
